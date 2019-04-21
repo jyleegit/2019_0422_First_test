@@ -2,13 +2,13 @@ Please tell me who you are .Run
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name" to set your account's default identity.
 
-ÇØ´ç ¿¡·¯ ¸Ş¼¼Áö´Â 
-" ±×·¡ ÀÌÁ¦ ³Ê°¡ ¼³Á¤ÇØ³õÀº repository¿¡ commitÀ» ÇÒ²«µ¥ 
-±×Àü¿¡, ³Ê´Â ´©±¸¾ß ? " ¸¦ ¹¯´Â°Çµ¥¿ä,
+í•´ë‹¹ ì—ëŸ¬ ë©”ì„¸ì§€ëŠ” 
+" ê·¸ë˜ ì´ì œ ë„ˆê°€ ì„¤ì •í•´ë†“ì€ repositoryì— commitì„ í• ê»€ë° 
+ê·¸ì „ì—, ë„ˆëŠ” ëˆ„êµ¬ì•¼ ? " ë¥¼ ë¬»ëŠ”ê±´ë°ìš”,
 
-¿¡·¯ ¸Ş¼¼Áö¿¡¼­ ¸»ÇØÁÖ´Â´ë·Î 
+ì—ëŸ¬ ë©”ì„¸ì§€ì—ì„œ ë§í•´ì£¼ëŠ”ëŒ€ë¡œ 
 $ git config --global user.name "user name"
-$ git config --global user.email "user e-mail" À» Àû¾îÁÖ½Ã¸é µË´Ï´Ù :)
+$ git config --global user.email "user e-mail" ì„ ì ì–´ì£¼ì‹œë©´ ë©ë‹ˆë‹¤ :)
 
 
 git init
@@ -17,3 +17,5 @@ git status
 git add .
 git commit -m "Hello Git hub"
 git push origin master
+
+added new sentences
