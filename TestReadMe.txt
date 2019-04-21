@@ -17,3 +17,5 @@ git status
 git add .
 git commit -m "Hello Git hub"
 git push origin master
+
+git pull origin master
